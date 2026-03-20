@@ -1,0 +1,2 @@
+# openai_route_for_openclaw_free_token
+轻量级，集中管理大模型token的代理网关，实现统一api合理调用token，重点解决openclaw调用免费大模型的痛点
